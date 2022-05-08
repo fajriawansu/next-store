@@ -1,4 +1,4 @@
-interface StepItemProps {
+export interface StepItemProps {
   icon: "step1" | "step2" | "step3";
   // iconnya valuenya harus diantara3 itu, gaboleh yang lain
   title: String;
